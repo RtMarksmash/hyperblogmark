@@ -54,11 +54,16 @@ footer{
     margin: 0;
 }
 
+
+#img2 {
+    width: 100%;
+}
+
 #footer-container{
     
     color: white;
     margin: 0 auto;
-    width: 77%;
+    width: 74%;
     background-color: grey;
     font-size: 12px;
     font-weight: bold;
